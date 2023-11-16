@@ -1,0 +1,75 @@
+{
+
+    "drinks" : [
+        {
+          "ID": 1,
+          "Drink Name": "Aperol Spritz",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceaQ67giW6BmefPOE5v0AHLFWFh1aO5U76XFAT5R9aaCNtMxuDuzOOz6b0II-PxgCgAs&usqp=CAU",
+          "Description": "A refreshing Italian wine-based cocktail served over ice",
+          "List of ingredients": "prosecco, aperol, club soda, orange peel"
+        },
+        {
+          "ID": 2,
+          "Drink Name": "Old Fashioned",
+          "Image URL": "https://www.knobcreek.com/sites/default/files/2018-06/thumb__0010_8909_KC_Classic_Old_Fashioned-4474.jpg",
+          "Description": "An Old Fashioned is a classic sweet whiskey cocktail",
+          "List of ingredients": "bourbon, bitters, raw sugar, cherry garnish"
+        },
+        {
+          "ID": 3,
+          "Drink Name": "Lemon Drop",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXx7YmoRmPWjknkAooV8i4W910-v89UYvbJlT3GBpOgTa8SHdI4FNnCYEORv9Cpq1sFo&usqp=CAU",
+          "Description": "A sweet vodka cocktail that tastes like candy",
+          "List of ingredients": "vodka, lemon juice, simple syrup"
+        },
+        {
+          "ID": 4,
+          "Drink Name": "Dark & Stormy",
+          "Image URL": "https://vinepair.com/wp-content/uploads/2022/10/dark-n-stormy-google-1000x1000.jpg",
+          "Description": "The Dark and Stormy is a classic cocktail that originated in Bermuda. It's a refreshing and flavorful combination of dark rum, ginger beer, and lime juice",
+          "List of ingredients": "2 ounces dark rum, 4 to 6 ounces ginger beer, 1/2 ounce freshly squeezed lime juice, Ice, Lime wedge (for garnish)"
+        },
+        {
+          "ID": 5,
+          "Drink Name": "Espresso Martini",
+          "Image URL": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/recipes_1200_800_fallback/public/2023-02/espresso-martini-cocktail%C2%A9iStock.jpg?itok=D6AZM1kB",
+          "Description": "The Espresso Martini is a popular cocktail that combines the rich flavors of coffee with the smoothness of vodka",
+          "List of ingredients": "1 1/2 ounces vodka, 1 ounce coffee liqueur (such as Kahlúa), 1 ounce freshly brewed espresso (cooled), 1/2 ounce simple syrup (optional, adjust to taste), Ice cubes, Coffee beans (for garnish)"
+        },
+        {
+          "ID": 6,
+          "Drink Name": "Chelada",
+          "Image URL": "https://www.craftbeering.com/wp-content/uploads/2019/07/Chelada-SQ.jpg",
+          "Description": "A Chelada is a popular Mexican beer cocktail that typically consists of beer, lime juice, and salt. It is a refreshing and tangy beverage, perfect for warm weather or accompanying Mexican cuisine.",
+          "List of ingredients": "1 lime, Coarse salt, Ice cubes, Mexican lager beer (such as Modelo, Tecate, or Corona)"
+        },
+        {
+          "ID": 7,
+          "Drink Name": "Brooklyn Cocktail",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteg0Z5HXQh2BCOWfbvKf_x5oh47Ou6wYMeg&usqp=CAU",
+          "Description": "Love a Manhattan? Then you absolutely must try this unique spin: the Brooklyn cocktail! The Brooklyn is similarly spirit forward, with a few special twists to add nuance",
+          "List of ingredients": "Rye whiskey, dry vermouth, maraschino liqueur, Amer Picon"
+        },
+        {
+          "ID": 8,
+          "Drink Name": "Negroni",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ODXCq7Wb24SjOiE_32E3eqBfW-yk8dPI2g&usqp=CAU",
+          "Description": "Composed of Gin, Sweet Vermouth, Campari bitters, and an orange slice. Traditionally, Negronis are stirred, not shaken, and built over ice in a classic or rocks glass",
+          "List of ingredients": "Gin, campari, sweet vermouth, orange peel"
+        },
+        {
+          "ID": 9,
+          "Drink Name": "Whiskey Smash",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy05wE7vTQ3ieymoadr88b6s4Y_CPhIrKquA&usqp=CAU",
+          "Description": "The Whiskey Smash is a classic cocktail that’s tangy and refreshing! Starring lemon juice and mint, it’s a citrusy spin on the Mint Julep.",
+          "List of ingredients": "Whiskey, lemon slice, mint leaves, simple syrup, soda water, crushed ice"
+        },
+        {
+          "ID": 10,
+          "Drink Name": "Peanut Butter & Jelly shot",
+          "Image URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhrnoVCM-nROUcqQHEf0DH5h7-EUS-7egDw&usqp=CAU",
+          "Description": "Tastes just like a classic peanut butter & jelly!",
+          "List of ingredients": "Skrewball peanut butter whiskey, cranberry juice"
+        }
+      ]
+    }
