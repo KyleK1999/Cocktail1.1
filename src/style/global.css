@@ -1,0 +1,73 @@
+body {
+    background-image: url("https://i.ibb.co/F5G5BLg/project-1-Imgur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    font-size: 100px;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+button {
+    border: none; /* Changed from 'auto' to 'none' for clarity */
+    font-size: 40px;
+    color: white;
+    background-color: rgba(60, 66, 68, 0.8);
+    text-align: center;
+    padding: 50px;
+    font-family: "Courier";
+    margin-bottom: 500px;
+    margin-top: 100px;
+    border-radius: 50px;
+    cursor: pointer; /* Added for better UX */
+}
+
+.filters {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    font-size: 40px;
+    margin-bottom: 200px;
+    background-color: rgba(60, 66, 68, 0.8); /* Completed the background-color property */
+    border-radius: 50px;
+    color: white;
+    font-family: "Courier";
+    padding: 20px; /* Added padding for aesthetic spacing */
+}
+
+.filters label {
+    margin: 20px; /* Adjusted margin for better spacing */
+}
+
+.filters input[type="checkbox"] { /* Corrected selector for checkbox styling */
+    margin-right: 5px;
+}
+
+.cocktailDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cocktailDetails img {
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.cocktailDetails p {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
